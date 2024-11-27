@@ -1,4 +1,4 @@
-# PowerPoint_Automation
+# PowerPoint Automation Using Python
 This repository contains examples on how to create and manipulate tempaltes for PowerPoint presentations.
 
 ## Description
